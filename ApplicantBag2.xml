@@ -1,0 +1,32 @@
+<tmk:ApplicantBag xmlns:com="http://www.wipo.int/standards/XMLSchema/ST96/Common" xmlns:tmk="http://www.wipo.int/standards/XMLSchema/ST96/Trademark">
+    <tmk:Applicant com:sequenceNumber="0">
+        <com:PartyIdentifier com:partyIdentifierCategory="Individual identifier">Паспорт гражданина РФ</com:PartyIdentifier>
+        <com:PartyIdentifier com:partyIdentifierCategory="Passport number">4522123456</com:PartyIdentifier>
+        <com:PartyIdentifier com:partyIdentifierCategory="Кем выдан">ГУ МВД РОССИИ</com:PartyIdentifier>
+        <com:PartyIdentifier com:partyIdentifierCategory="Дата выдачи">01.01.2022</com:PartyIdentifier>
+        <com:PartyIdentifier com:partyIdentifierCategory="Tax identifier">769022744078</com:PartyIdentifier>
+        <com:PartyIdentifier com:partyIdentifierCategory="National identification number">38117939404</com:PartyIdentifier>
+        <com:Contact>
+            <com:Name>
+                <com:PersonName com:languageCode="ru">
+                    <com:PersonFullName>Иванов Иван</com:PersonFullName>
+                </com:PersonName>
+                <com:PersonName com:languageCode="en">
+                    <com:PersonFullName>Ivanov Ivan</com:PersonFullName>
+                </com:PersonName>
+            </com:Name>
+            <com:PostalAddressBag>
+                <com:PostalAddress>
+                    <com:PostalAddressText com:languageCode="ru">123456 Москва, 13</com:PostalAddressText>
+                    <com:PostalStructuredAddress>
+                        <com:CountryCode>RU</com:CountryCode>
+                    </com:PostalStructuredAddress>
+                </com:PostalAddress>
+            </com:PostalAddressBag>
+            <com:PhoneNumberBag>
+                <com:PhoneNumber>+79261111111</com:PhoneNumber>
+            </com:PhoneNumberBag>
+        </com:Contact>
+        <com:NationalityCode>RU</com:NationalityCode>
+    </tmk:Applicant>
+</tmk:ApplicantBag>

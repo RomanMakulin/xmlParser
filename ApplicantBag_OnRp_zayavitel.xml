@@ -1,0 +1,63 @@
+<pat:ApplicantBag xmlns:com="http://www.wipo.int/standards/XMLSchema/ST96/Common" xmlns:pat="http://www.wipo.int/standards/XMLSchema/ST96/Patent">
+    <pat:Applicant com:sequenceNumber="0">
+        <com:PartyIdentifierBag>
+            <com:PartyIdentifier com:partyIdentifierCategory="Tax identifier">261724686380</com:PartyIdentifier>
+            <com:PartyIdentifier com:partyIdentifierCategory="National identification number">01335043191</com:PartyIdentifier>
+            <com:PartyIdentifier com:partyIdentifierCategory="Individual identifier">Паспорт гражданина РФ</com:PartyIdentifier>
+            <com:PartyIdentifier com:partyIdentifierCategory="Passport number">4564374767</com:PartyIdentifier>
+            <com:PartyIdentifier com:partyIdentifierCategory="Individual identifier">ОВД</com:PartyIdentifier>
+            <com:PartyIdentifier com:partyIdentifierCategory="Individual identifier">02.02.2003</com:PartyIdentifier>
+        </com:PartyIdentifierBag>
+        <com:Contact>
+            <com:Name>
+                <com:PersonName com:languageCode="ru">
+                    <com:PersonFullName>Дроздов Ярослав Даниилович</com:PersonFullName>
+                </com:PersonName>
+                <com:PersonName com:languageCode="en">
+                    <com:PersonFullName>hgfdhdf</com:PersonFullName>
+                </com:PersonName>
+            </com:Name>
+            <com:PostalAddressBag>
+                <com:PostalAddress>
+                    <com:PostalAddressText com:languageCode="ru">745764 г. Москва, ул. Советская, 44, оф. 99</com:PostalAddressText>
+                    <com:PostalStructuredAddress>
+                        <com:CountryCode>RU</com:CountryCode>
+                    </com:PostalStructuredAddress>
+                    <com:PostalAddressText com:languageCode="en">Mofdhdf</com:PostalAddressText>
+                </com:PostalAddress>
+            </com:PostalAddressBag>
+        </com:Contact>
+    </pat:Applicant>
+    <pat:Applicant com:sequenceNumber="1">
+        <com:PartyIdentifierBag>
+            <com:PartyIdentifier com:partyIdentifierCategory="Tax identifier">8092636415</com:PartyIdentifier>
+            <com:PartyIdentifier com:partyIdentifierCategory="Customer number">450645661</com:PartyIdentifier>
+            <com:PartyIdentifier com:partyIdentifierCategory="Entity identifier">5134183544413</com:PartyIdentifier>
+        </com:PartyIdentifierBag>
+        <com:Contact>
+            <com:Name>
+                <com:OrganizationName com:languageCode="ru">
+                    <com:OrganizationStandardName>Общество с ограниченной ответственностью «ЛУ ЛУ МЕД»</com:OrganizationStandardName>
+                </com:OrganizationName>
+                <com:OrganizationName com:languageCode="en">
+                    <com:OrganizationStandardName>gfdjgfdd</com:OrganizationStandardName>
+                </com:OrganizationName>
+            </com:Name>
+            <com:PostalAddressBag>
+                <com:PostalAddress>
+                    <com:PostalAddressText com:languageCode="ru">547547 г. Новосибирск, ул. Строительная, 46, кв. 99</com:PostalAddressText>
+                    <com:PostalStructuredAddress>
+                        <com:CountryCode>RU</com:CountryCode>
+                    </com:PostalStructuredAddress>
+                    <com:PostalAddressText com:languageCode="en">gfhdjgdhfgd</com:PostalAddressText>
+                </com:PostalAddress>
+            </com:PostalAddressBag>
+            <com:EmailAddressBag>
+                <com:EmailAddressText>xixedap-eta37@yandex.ru</com:EmailAddressText>
+            </com:EmailAddressBag>
+            <com:PhoneNumberBag>
+                <com:PhoneNumber>+79021123654</com:PhoneNumber>
+            </com:PhoneNumberBag>
+        </com:Contact>
+    </pat:Applicant>
+</pat:ApplicantBag>
