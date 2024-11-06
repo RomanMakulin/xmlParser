@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:RuptoRequest xmlns:rucom="urn:ru:rupto:common/1.0.0"
+                  xmlns:rutmk="urn:ru:rupto:trademark/1.0.1"
+                  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                  xmlns:com="http://www.wipo.int/standards/XMLSchema/ST96/Common/1.0.4"
+                  xmlns:com1="http://www.wipo.int/standards/XMLSchema/ST96/Common/1.0.3"
+                  xmlns:tmk="http://www.wipo.int/standards/XMLSchema/ST96/Trademark/1.0.3"
+                  xmlns:fipsx="http://www1.fips.ru/standards/XMLSchema/ST96/FipsExtra/1.0.0"
+                  xmlns:fipscom="http://www1.fips.ru/standards/XMLSchema/ST96/FipsCommon/1.0.0"
+                  xmlns:tns="http://ws.rupto.ru/smev3/gosuslugi/clients/tm_registation/1.0.4"
+                  xmlns:epgu="http://rupto.ru/standards/XMLSchema/epgu/1.0.1"
+                  xmlns:ehd="http://rupto.ru/standards/XMLSchema/ehd/1.0.0"
+>
+    <epgu:Order>
+        <epgu:orderId>4650102244</epgu:orderId>
+        <epgu:ServiceCode>60012726</epgu:ServiceCode>
+        <epgu:TargetCode>-60012726</epgu:TargetCode>
+        <epgu:orderDate>2024-10-30</epgu:orderDate>
+                    <epgu:SubServiceCode>10071</epgu:SubServiceCode>
+                                                <epgu:qualificationCodeINBag>
+                            <epgu:qualificationCodeIN>МНЗ</epgu:qualificationCodeIN>
+                                                                    </epgu:qualificationCodeINBag>
+    </epgu:Order>
+    <tns:Service>
+                    <tns:TrademarkApplication>
+                <tmk:TrademarkApplication com:st96Version="V4_0">
+                                            <com:DocumentIncludedBag>
+                                                                                                <com:DocumentIncluded com:languageCode="ru">
+                                        <com:DocumentName>Заявляемое обозначение</com:DocumentName>
+                                        <com:FileName>file_example_TIFF_1MB.tiff</com:FileName>
+                                        <com:DocumentDate>2024-10-30</com:DocumentDate>
+                                        <com:DocumentLocationURI></com:DocumentLocationURI>
+                                        <com:DocumentSizeQuantity com:unitCode="б">1131930</com:DocumentSizeQuantity>
+                                        <com:IPOfficeCodeBag>
+                                            <com:IPOfficeCode>RU</com:IPOfficeCode>
+                                        </com:IPOfficeCodeBag>
+                                    </com:DocumentIncluded>
+                                                                                                                                                                                                                                                                                                                                                                                                                                    </com:DocumentIncludedBag>
+                                        <tmk:TrademarkBag>
+                        <tmk:Trademark>
+                            <com:RegistrationOfficeCode>RU</com:RegistrationOfficeCode>
+                            <com:ApplicationNumber>
+                                <com:ApplicationNumberText></com:ApplicationNumberText>
+                            </com:ApplicationNumber>
+                            <com:ApplicationDate>2024-10-30</com:ApplicationDate>
+                            <tmk:MarkCurrentStatusCode>Application Filed</tmk:MarkCurrentStatusCode>
+                            <tmk:MarkCurrentStatusDate>2024-10-30</tmk:MarkCurrentStatusDate>
+                                                            <tmk:MarkCategory>Collective trademark</tmk:MarkCategory>
+                                                        <tmk:MarkRepresentation>
+                                                                                                                                                                                                                                                                                                                                                                                                                                 <tmk:MarkFeatureCategory>Combined</tmk:MarkFeatureCategory>                                <tmk:MarkReproduction>
+                                    <tmk:WordMarkSpecification>
+                                        <tmk:MarkSignificantVerbalElementText com:languageCode="ru"></tmk:MarkSignificantVerbalElementText>
+                                    </tmk:WordMarkSpecification>
+                                    <tmk:MarkImageBag>
+                                        <tmk:MarkImage com:sequenceNumber="1">
+                                            <com:FileName></com:FileName>
+                                                                                            <tmk:MarkImageColourClaimedText com:languageCode="ru" com:sequenceNumber="1">цвет или цветовое сочетание тест</tmk:MarkImageColourClaimedText>
+                                                                                    </tmk:MarkImage>
+                                    </tmk:MarkImageBag>
+                                </tmk:MarkReproduction>
+                                                                    <tmk:MarkDescriptionBag>
+                                        <tmk:MarkDescriptionText com:languageCode="ru">Укажите описание заявляемого тест1</tmk:MarkDescriptionText>
+                                    </tmk:MarkDescriptionBag>
+                                                            </tmk:MarkRepresentation>
+                            <tmk:GoodsServicesBag>
+                                <tmk:GoodsServices>
+                                    <tmk:GoodsServicesClassificationBag>
+                                        <tmk:GoodsServicesClassification>
+                                            <tmk:ClassificationKindCode>Nice</tmk:ClassificationKindCode>
+                                        </tmk:GoodsServicesClassification>
+                                    </tmk:GoodsServicesClassificationBag>
+                                    <tmk:ClassificationKindCode>Nice</tmk:ClassificationKindCode>
+                                    <com:ClassificationVersion>12-2024</com:ClassificationVersion>
+                                    <tmk:ClassDescriptionBag>
+                                                                                                                                    <tmk:ClassDescription>
+                                                    <tmk:ClassNumber>4</tmk:ClassNumber>
+                                                                                                                                                                        <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">вазелин технический для промышленных целей</tmk:GoodsServicesDescriptionText>
+                                                                                                                    <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">воск карнаубский</tmk:GoodsServicesDescriptionText>
+                                                                                                                    <tmk:GoodsServicesDescriptionText com:languageCode="ru" com:sequenceNumber="1">воск пчелиный*</tmk:GoodsServicesDescriptionText>
+                                                                                                                                                                                                                        <tmk:ClassificationTermBag>
+                                                            <tmk:ClassificationTerm>
+                                                                <tmk:ClassificationTermText></tmk:ClassificationTermText>
+                                                            </tmk:ClassificationTerm>
+                                                        </tmk:ClassificationTermBag>
+                                                                                                    </tmk:ClassDescription>
+                                                                                                                        </tmk:ClassDescriptionBag>
+                                </tmk:GoodsServices>
+                            </tmk:GoodsServicesBag>
+                            <tmk:PriorityBag>
+                                                                                                                                                                                                                                                                    <tmk:Priority>
+                                        <com:PriorityCountryCode>IB</com:PriorityCountryCode>
+                                        <com:ApplicationNumber>
+                                            <com:ApplicationNumberText>23</com:ApplicationNumberText>
+                                        </com:ApplicationNumber>
+                                        <com:PriorityApplicationFilingDate>2024-10-23</com:PriorityApplicationFilingDate>
+                                        <com:CommentText com:languageCode="ru" com:sequenceNumber="1">(641) приоритета первоначальной заявки, из которой данная заявка выделена (пункт 2 статьи 1494 Кодекса)</com:CommentText>
+                                        <tmk:PriorityRegistrationDate>2024-10-08</tmk:PriorityRegistrationDate>
+                                    </tmk:Priority>
+                                                            </tmk:PriorityBag>
+
+                            
+                                                            <tmk:ApplicantBag>
+                                                                            <tmk:Applicant com:sequenceNumber="1" rutmk:entityCategory="Russian Federation citizen">
+                                            <com:PartyIdentifier com:officeCode="RU" com:partyIdentifierCategory="Passport type">Паспорт РФ</com:PartyIdentifier>
+                                            <com:PartyIdentifier com:officeCode="RU" com:partyIdentifierCategory="Birth date">19.10.1994</com:PartyIdentifier>
+                                            <com:PartyIdentifier com:officeCode="RU" com:partyIdentifierCategory="Passport number">0001 333333</com:PartyIdentifier>
+                                            <com:PartyIdentifier com:officeCode="RU" com:partyIdentifierCategory="Passport issue date">11.11.2011</com:PartyIdentifier>
+                                            <com:PartyIdentifier com:officeCode="RU" com:partyIdentifierCategory="Passport issuing authority">ГУ МВД Самара, 630006</com:PartyIdentifier>
+                                            <com:PartyIdentifier com:officeCode="RU" com:partyIdentifierCategory="ESIA">1002388618</com:PartyIdentifier>
+                                            <com:PartyIdentifier com:officeCode="RU" com:partyIdentifierCategory="Birth place">Самара</com:PartyIdentifier>
+                                            <com:PartyIdentifier com:officeCode="RU" com:partyIdentifierCategory="Citizenship">RUS</com:PartyIdentifier>
+                                            <com:PartyIdentifier com:officeCode="RU" com:partyIdentifierCategory="National identification number">022-097-122 11</com:PartyIdentifier>
+                                            <com:PartyIdentifier com:officeCode="RU" com:partyIdentifierCategory="Tax identifier">942303466186</com:PartyIdentifier>
+                                                                                        <com:Contact com:languageCode="ru">
+                                                <com:Name>
+                                                    <com:PersonName com:languageCode="ru">
+                                                        <com:PersonFullName>Красовский Влас Алексеевич</com:PersonFullName>
+                                                    </com:PersonName>
+                                                </com:Name>
+                                                <com:PostalAddressBag>
+                                                    <com:PostalAddress>
+                                                        <com:PostalAddressText com:sequenceNumber="1">443052, обл. Самарская, г. Самара, пр-кт. Кирова, зд. 1</com:PostalAddressText>
+                                                    </com:PostalAddress>
+                                                    <com:PostalAddress>
+                                                        <com:PostalStructuredAddress com:languageCode="ru">
+                                                            <com:AddressLineText com:addressLineCategory="Street" com:sequenceNumber="1">443052, обл. Самарская, г. Самара, пр-кт. Кирова, зд. 1</com:AddressLineText>
+                                                            <com:CityName>Самара</com:CityName>
+                                                            <com:GeographicRegionName com:geographicRegionCategory = "Province">(63) Самарская обл.</com:GeographicRegionName>
+                                                            <com:CountryCode>RU</com:CountryCode>
+                                                                                                                            <com:PostalCode>443052</com:PostalCode>
+                                                                                                                    </com:PostalStructuredAddress>
+                                                    </com:PostalAddress>
+                                                </com:PostalAddressBag>
+                                                <com:EmailAddressBag>
+                                                    <com:EmailAddressText com:sequenceNumber="1">vlas.krasovskiy@mail.ru</com:EmailAddressText>
+                                                </com:EmailAddressBag>
+                                                <com:PhoneNumberBag>
+                                                    <com:PhoneNumber>+7(906)3445373</com:PhoneNumber>
+                                                </com:PhoneNumberBag>
+                                            </com:Contact>
+                                                                                    </tmk:Applicant>
+                                                                                                                                            </tmk:ApplicantBag>
+                            
+                            <tmk:NationalGoodsServices>
+                                <tmk:NationalClassTotalQuantity>1</tmk:NationalClassTotalQuantity>
+                            </tmk:NationalGoodsServices>
+                                                                                                                    <com:CorrespondenceAddress>
+                                    <com:Contact com:languageCode="ru">
+                                        <com:Name>
+                                                                                            <com:PersonName com:languageCode="ru">
+                                                    <com:PersonFullName>Красовский Влас Алексеевич</com:PersonFullName>
+                                                </com:PersonName>
+                                                                                                                                                                            </com:Name>
+                                        <com:PostalAddressBag>
+                                            <com:PostalAddress>
+                                                                                                    <com:PostalAddressText com:languageCode="ru" com:sequenceNumber="1">443052, обл. Самарская, г. Самара, пр-кт. Кирова, зд. 1</com:PostalAddressText>                                                                                                                                                                                                                                             </com:PostalAddress>
+                                        </com:PostalAddressBag>
+                                        <com:EmailAddressBag>
+                                                                                            <com:EmailAddressText com:sequenceNumber="1" rucom:preferredContact="true">vlas.krasovskiy@mail.ru</com:EmailAddressText>                                                                                                                                                                             </com:EmailAddressBag>
+                                    </com:Contact>
+                                </com:CorrespondenceAddress>
+                                                                                    <rutmk:AdditionalConditions>
+                                <rutmk:TrademarkInclusion>
+                                                                             <rutmk:FamousPersonName>false</rutmk:FamousPersonName>
+                                                                                                                 <rutmk:GoodReward>false</rutmk:GoodReward>
+                                                                                                                 <rutmk:OfficialSymbol>false</rutmk:OfficialSymbol>
+                                                                                                                 <rutmk:NaturalCulturalHeritage>false</rutmk:NaturalCulturalHeritage>
+                                                                    </rutmk:TrademarkInclusion>
+                                                                    <rutmk:PreviousHolderCopyrightConsent>false</rutmk:PreviousHolderCopyrightConsent>
+                                                                                                    <rutmk:SimilarMark>false</rutmk:SimilarMark>
+                                                            </rutmk:AdditionalConditions>
+                        </tmk:Trademark>
+                    </tmk:TrademarkBag>
+                                             <com:PaymentBag>
+                            <com:Payment>
+                                                                <com:PaymentReference>Пошлина по п.2.2 и по п.2.4. Прил. №1 к Положению о пошлинах</com:PaymentReference>                                 <com:PaymentModeCategory>Charge</com:PaymentModeCategory>
+                                <com:PaymentMethod>
+                                                                                                                <com:OtherPaymentMethod>По квитанции от Роспатента</com:OtherPaymentMethod>
+                                                                                                                                            </com:PaymentMethod>
+                                <com:PayerName>
+                                                                            <com:PersonName com:languageCode="ru">
+                                            <com:PersonFullName>Красовский Влас Алексеевич</com:PersonFullName>
+                                        </com:PersonName>
+                                                                                                                                            </com:PayerName>
+                                <com:PaymentDate>2024-10-30</com:PaymentDate>
+                                <com:PaymentFeeBag>                                                                                                                 <com:PaymentFee>
+                                            <com:FeeReference>За регистрацию выделенной заявки на ТЗ, проведение экспертизы и принятие решения по заявке по п.2.2</com:FeeReference>
+                                            <com:BasicFeeAmount com:currencyCode="RUB">4000</com:BasicFeeAmount>
+                                        </com:PaymentFee>
+                                                                                                                <com:PaymentFee>
+                                            <com:FeeReference>За проведение экспертизы обозначения, заявленного в качестве ТЗ, и принятие решения по ее результатам п.2.4</com:FeeReference>
+                                            <com:BasicFeeAmount com:currencyCode="RUB">13000</com:BasicFeeAmount>
+                                        </com:PaymentFee>
+                                                                    </com:PaymentFeeBag>
+                                <com:FeePayableTotalAmount com:currencyCode="RUB">17000</com:FeePayableTotalAmount>                                                                     <com:FeePaidTotalAmount com:currencyCode="RUB">0</com:FeePaidTotalAmount>                                                                 <rucom:Payer>
+                                                                            <com1:PartyIdentifier com1:officeCode="RU" com1:partyIdentifierCategory="Tax identifier">942303466186</com1:PartyIdentifier>                                         <com1:PartyIdentifier com1:officeCode="RU" com1:partyIdentifierCategory="National identification number">022-097-122 11</com1:PartyIdentifier>                                                                                                                                             </rucom:Payer>
+                            </com:Payment>
+                        </com:PaymentBag>
+                                        <com:SignatureBag>
+                        <com:Signature>
+                            <com:Contact com:languageCode="ru">
+                                <com:Name>
+                                    <com:PersonName com:languageCode="ru">
+                                        <com:PersonFullName>Влас Красовский Алексеевич</com:PersonFullName>
+                                                                            </com:PersonName>
+                                                                                                                                                                                                                                                                                                                                                                                                                                            </com:Name>
+                            </com:Contact>
+                            <com:ElectronicSignature>
+                                <com1:ElectronicSignatureDate>2024-10-30</com1:ElectronicSignatureDate>
+                                                                    <com1:ElectronicSignaturePlace>ЕПГУ</com1:ElectronicSignaturePlace>
+                                                                                                    <com1:ElectronicBasicSignature>
+                                        <com1:ElectronicBasicSignatureClickWrap>true</com1:ElectronicBasicSignatureClickWrap>
+                                    </com1:ElectronicBasicSignature>
+                                                                                                                                                                                                                                                                                                                                    <rucom:SignatureKind>ПЭП</rucom:SignatureKind>
+                                                            </com:ElectronicSignature>
+                        </com:Signature>
+                    </com:SignatureBag>
+                </tmk:TrademarkApplication>
+            </tns:TrademarkApplication>
+                                            </tns:Service>
+    <ehd:EHDSpec>
+                                            <ehd:ApplicationDirectoryKind ehd:numberValue="100001" ehd:textValue="DR_TRADEMARK">
+                                <ehd:DirectoryKind ehd:numberValue="150000" ehd:textValue="DC_PRIMARY">
+                                        <ehd:FileKind ehd:numberValue="1236" ehd:textValue="APPLICATION">
+                        <ehd:FileName>application.xml</ehd:FileName>
+                    </ehd:FileKind>
+                    <ehd:FileKind ehd:numberValue="1236" ehd:textValue="APPLICATION">
+                        <ehd:FileName>pdf_application.pdf</ehd:FileName>
+                    </ehd:FileKind>
+                                                                                                                                                                                    <ehd:FileKind ehd:numberValue="1059" ehd:textValue="TRADEMARK_IMAGE">
+                                <ehd:FileName>file_example_TIFF_1MB.tiff</ehd:FileName>
+                            </ehd:FileKind>
+                                                                                                                                                                                                                                                                                                            </ehd:DirectoryKind>
+            </ehd:ApplicationDirectoryKind>
+                                            </ehd:EHDSpec>
+</tns:RuptoRequest>

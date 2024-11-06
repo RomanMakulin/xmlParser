@@ -1,0 +1,13 @@
+<com:RepresentativeBag xmlns:com="http://www.wipo.int/standards/XMLSchema/ST96/Common" xmlns:tmk="http://www.wipo.int/standards/XMLSchema/ST96/Trademark">
+    <com:Representative com:sequenceNumber="0">
+        <com:PartyIdentifier com:partyIdentifierCategory="Contract worker number">101</com:PartyIdentifier>
+        <com:Contact>
+            <com:Name>
+                <com:PersonName com:languageCode="ru">
+                    <com:PersonFullName>Хмелевская Наталья Алексеевна</com:PersonFullName>
+                </com:PersonName>
+            </com:Name>
+        </com:Contact>
+        <com:RepresentativeCategory>Professional representative</com:RepresentativeCategory>
+    </com:Representative>
+</com:RepresentativeBag>

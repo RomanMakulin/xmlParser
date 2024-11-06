@@ -1,0 +1,24 @@
+<tmk:ApplicantBag xmlns:com="http://www.wipo.int/standards/XMLSchema/ST96/Common" xmlns:tmk="http://www.wipo.int/standards/XMLSchema/ST96/Trademark">
+    <tmk:Applicant com:sequenceNumber="0">
+        <com:IncorporationState>ООО</com:IncorporationState>
+        <com:PartyIdentifier com:partyIdentifierCategory="Tax identifier">7606078978</com:PartyIdentifier>
+        <com:PartyIdentifier com:partyIdentifierCategory="Customer number">371101001</com:PartyIdentifier>
+        <com:PartyIdentifier com:partyIdentifierCategory="ФИО">Павлов Олег Владимирович</com:PartyIdentifier>
+        <com:PartyIdentifier com:partyIdentifierCategory="Должность">дир ио</com:PartyIdentifier>
+        <com:PartyIdentifier com:partyIdentifierCategory="Entity identifier">1107606003746</com:PartyIdentifier>
+        <com:Contact>
+            <com:Name>
+                <com:OrganizationName com:languageCode="ru">
+                    <com:OrganizationStandardName>ООО СТРОЙМАРКЕТ</com:OrganizationStandardName>
+                </com:OrganizationName>
+            </com:Name>
+            <com:PostalAddressBag>
+                <com:PostalAddress>
+                    <com:PostalAddressText com:languageCode="ru">646456 344019, Ростовская обл., г. Ростов-на-Дону, ул. Верхненольная, 3</com:PostalAddressText>
+                </com:PostalAddress>
+            </com:PostalAddressBag>
+        </com:Contact>
+        <com:NationalityCode>RU</com:NationalityCode>
+    </tmk:Applicant>
+</tmk:ApplicantBag>
+
